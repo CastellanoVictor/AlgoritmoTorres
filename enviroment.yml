@@ -1,0 +1,7 @@
+name: graf
+channels:
+  - defaults
+dependencies:
+  - pyproj
+  - numpy
+prefix: /opt/anaconda3/envs/graf
