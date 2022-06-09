@@ -1,0 +1,8 @@
+name: grafos
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pyproj
+prefix: /opt/anaconda3/envs/grafos
