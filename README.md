@@ -11,5 +11,7 @@ conda env create --file name.yml
 
 Para los casos serán:
 
-conda env create --file enviroment.yml
-conda env create --file enviroment.yml
+conda env create --file enviroment_grafico.yml 
+conda env create --file enviroment_script.yml
+
+Cada archivo .py solo podrá ser compilado en su respectivo ambiente virtual. Dicho de paso, es necesario Anaconda3 para poder trabajar con ambientes virtuales.
